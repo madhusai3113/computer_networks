@@ -1,3 +1,5 @@
+//program for setting up connection in udp 
+
 #include <stdio.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
